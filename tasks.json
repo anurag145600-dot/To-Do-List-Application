@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Complete the Python Crash Course",
+        "completed": true
+    },
+    {
+        "task": "Do your hw",
+        "completed": false
+    },
+    {
+        "task": "Complete Internship Project",
+        "completed": false
+    },
+    {
+        "task": "Do Exercise daily",
+        "completed": false
+    }
+]
